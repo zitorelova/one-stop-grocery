@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">One Stop Grocery</string>
+    <string name="shipPayTextRes"><![CDATA[Shipping & Payment]]></string>
+    <string name="addressText">Shipping Address</string>
+    <string name="payTextRes">Payment Method</string>
+    <string name="priceText">Price: </string>
+    <string name="shippingText">Shipping: </string>
+    <string name="taxText">Tax: </string>
+    <string name="totPriceText">Total Price: </string>
+    <string name="confirmPayBtnText"><![CDATA[Confirm & Pay]]></string>
+    <string name="txtSignUp">Sign Up</string>
+    <string name="btnCreateAcc">Create an Account</string>
+    <string name="btnSignGoogle">Sign Up With Google</string>
+    <string name="btnSignFB">Sign Up With Facebook</string>
+    <string name="txtAlreadyAcc">Already Have an Account?</string>
+    <string name="txtSignIn"><u>Sign In</u></string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Your Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign IN</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="txtSignAcc">Sign In to Your Account</string>
+    <string name="txtForgetPass"><u>Forget Your Password?</u></string>
+    <string name="txtCreateAccText">Create An Account</string>
+    <string name="txtCustName">Customer Name</string>
+    <string name="txtEmail">Your Email</string>
+    <string name="txtPass">Create a Password</string>
+    <string name="btnCreateAcc2">Create an Account</string>
+    <string name="txtAlreadyAcc2">Already Have an Account?</string>
+    <string name="txtSignIn2"><u>Sign In</u></string>
+    <string name="txtCustName2">Customer Name</string>
+    <string name="txtUserName">User Name</string>
+    <string name="txtPostAdd">Postal Address</string>
+    <string name="imgLogo">Logo</string>
+    <string name="imgUserPhoto" />
+    <string name="title_activity_password">PasswordActivity</string>
+    <string name="txtResetPass">Enter your email and request password reset.</string>
+    <string name="txtEmailPassReset">Enter Your Email Here</string>
+    <string name="btnPassReset">Password Reset</string>
+    <string name="txtUserEmail">Email Address</string>
+    <string name="btnSignOut">Sign Out</string>
+    <string name="facebook_app_id">449909566329231</string>
+    <string name="fb_login_protocol_scheme">fb449909566329231</string>
+    <string name="txtHomeTitleText">Welcome Back</string>
+    <string name="action_menu_settings">Settings</string>
+    <string name="btnAddToCartTxt">Add To Cart</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragmentProductHeader">One Stop Grocery</string>
+    <string name="fragmentProductDetailHeader">Product Details</string>
+    <string name="fragmentCartHeader">Your Cart</string>
+    <string name="fragmentOrderHeader">Your Order</string>
+    <string name="checkoutButtonText">Proceed to Checkout</string>
+    <string name="textViewQuantityText">Qty</string>
+    <string name="productDescText">Description</string>
+    <string name="productQtyText">Quantity</string>
+    <string name="addToCartText">Add to Cart</string>
+    <string name="shipDetailsHeaderTxt">Enter Shipping Details</string>
+    <string name="shipDetailsNameTxt">Customer Name</string>
+    <string name="nameHintTxt">Name</string>
+    <string name="addLineOneTxt">Address Line 1</string>
+    <string name="addLineTwoTxt">Address Line 2</string>
+    <string name="cityText">City</string>
+    <string name="provinceTxt">Province</string>
+    <string name="postalCodeTxt">Postal Code</string>
+    <string name="reviewOrderButtonTxt">Review Order</string>
+    <string name="orderConfirmText">Your order has been confirmed!\nThank you for shopping at</string>
+    <string name="continueButtonText">Continue Shopping</string>
+    <string name="btnBackHome">Back To Home</string>
+    <string-array name="quantitySpinnerText">
+        <item>"1"</item>
+        <item>"2"</item>
+        <item>"3"</item>
+        <item>"4"</item>
+        <item>"5"</item>
+    </string-array>
+    <string-array name="spinnerProvinceText">
+        <item>"AB"</item>
+        <item>"BC"</item>
+        <item>"MB"</item>
+        <item>"NB"</item>
+        <item>"NL"</item>
+        <item>"NT"</item>
+        <item>"NS"</item>
+        <item>"NU"</item>
+        <item>"ON"</item>
+        <item>"PE"</item>
+        <item>"QC"</item>
+        <item>"SK"</item>
+        <item>"YT"</item>
+    </string-array>
+</resources>
